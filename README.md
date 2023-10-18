@@ -1,2 +1,1 @@
-# ahivael2dointento
-vamos a crear un rpositorio segun git hub
+como crear commit y clonar en mi escritorio y de ahi a git hub
